@@ -1,0 +1,5 @@
+# File managed by Puppet
+
+Host *
+    HashKnownHosts yes
+    SendEnv LANG LC_*
